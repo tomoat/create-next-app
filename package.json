@@ -1,0 +1,37 @@
+{
+  "name": "create-next-app",
+  "description": "Create Next.js apps in one command",
+  "version": "0.4.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "create-next-app": "./bin/create-next-app"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "repository": "segmentio/create-next-app",
+  "bugs": {
+    "url": "https://github.com/segmentio/create-next-app/issues"
+  },
+  "dependencies": {
+    "ansi-escapes": "^2.0.0",
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "cross-spawn": "^5.1.0",
+    "execa": "^0.6.3",
+    "mkdirp-then": "^1.2.0",
+    "ms": "^1.0.0",
+    "mz": "^2.6.0",
+    "ora": "^1.2.0",
+    "promise": "^7.1.1"
+  },
+  "keywords": [
+    "next",
+    "react",
+    "next.js",
+    "create-next-app",
+    "create-react-app",
+    "boilerplate"
+  ]
+}
