@@ -3,7 +3,7 @@
 Create [Next.js](https://github.com/zeit/next.js) apps in one command.
 
 - [Getting Started](#getting-started) — How to create an app
-- [User Guide](https://github.com/segmentio/create-next-app/blob/master/packages/lib/templates/default/README.md) —  How to develop apps started with Create Next App
+- [User Guide](https://github.com/segmentio/create-next-app/blob/master/lib/templates/default/README.md) —  How to develop apps started with Create Next App
 - [Starting from Examples](#starting-from-examples) — How to create an app from a Next.js example
 
 If you run into any issues or have feedback, please [file an issue](https://github.com/segmentio/create-next-app/issues/new)
