@@ -1,6 +1,6 @@
 # Create Next App
 
-Create [Next.js](https://github.com/zeit/next.js) apps in one command.
+The easiest way to create a [React](https://facebook.github.io/react) app with server-side rendering thanks to [Next.js](https://github.com/zeit/next.js)
 
 - [Getting Started](#getting-started) — How to create an app
 - [User Guide](https://github.com/segmentio/create-next-app/blob/master/lib/templates/default/README.md) —  How to develop apps started with Create Next App
