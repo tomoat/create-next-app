@@ -21,7 +21,9 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) to view your running app.
 When you're ready for production, run `npm run build` then `npm run start`.
 
-<img width="600" alt="Create Next App running in terminal" src="https://cloud.githubusercontent.com/assets/1026125/25445301/df54e34a-2a62-11e7-8cd4-93e029c5c0c1.png" />
+<img width="600" alt="Create Next App running in terminal" src="https://cloud.githubusercontent.com/assets/1026125/25556236/0ac91ca6-2cae-11e7-87ae-bb7974285063.png" />
+
+<img width="600" alt="Create Next App running in terminal" src="https://cloud.githubusercontent.com/assets/1026125/25556240/111fc3b6-2cae-11e7-84b6-961de4fd27f9.png" />
 
 ### Start Coding Now
 
